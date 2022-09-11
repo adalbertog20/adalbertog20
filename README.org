@@ -2,9 +2,8 @@
   Soy *estudiante* de Ingeniera en Desarrollo De Software
 ** Datos
   1. FOSS Lover.
-  2. Void Linux user.
+  2. C Programmer
   3. No me gustan los IDE prefiero usar mi editor de texto por excelencia *EMACS*.
-  4. C Programmer
   #+begin_src c
   #include <stdio.h>
   int main(int argc, char *argv[])
